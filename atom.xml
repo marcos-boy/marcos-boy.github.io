@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Marcos</title>
+  
+  
+  <link href="https://github.com/marcos-boy/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/marcos-boy/"/>
+  <updated>2023-11-29T06:37:11.710Z</updated>
+  <id>https://github.com/marcos-boy/</id>
+  
+  <author>
+    <name>Marcos</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>地表最详细MySQL行转列</title>
+    <link href="https://github.com/marcos-boy/article/2023/20646/"/>
+    <id>https://github.com/marcos-boy/article/2023/20646/</id>
+    <published>2023-11-27T14:09:12.000Z</published>
+    <updated>2023-11-29T06:37:11.710Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;地表最详细MySQL行转列&quot;&gt;&lt;a href=&quot;#地表最详细MySQL行转列&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://github.com/marcos-boy/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="Mysql" scheme="https://github.com/marcos-boy/tags/Mysql/"/>
+    
+    <category term="SQL" scheme="https://github.com/marcos-boy/tags/SQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis事件处理</title>
+    <link href="https://github.com/marcos-boy/article/2023/7367/"/>
+    <id>https://github.com/marcos-boy/article/2023/7367/</id>
+    <published>2023-10-25T12:14:21.000Z</published>
+    <updated>2023-11-29T06:37:11.710Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;2-事件处理&quot;&gt;&lt;a href=&quot;#2-事件处理&quot; class=&quot;headerlink&quot; title=&quot;2 事件处理&quot;&gt;&lt;/a&gt;2 事件处理&lt;/h1&gt;&lt;h2 id=&quot;2-1-I-O-多路复用&quot;&gt;&lt;a href=&quot;#2-1-I-O-多路复用&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://github.com/marcos-boy/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="Redis" scheme="https://github.com/marcos-boy/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis实现分分布式锁</title>
+    <link href="https://github.com/marcos-boy/article/2023/13529/"/>
+    <id>https://github.com/marcos-boy/article/2023/13529/</id>
+    <published>2023-10-05T11:08:29.000Z</published>
+    <updated>2023-11-29T06:37:11.710Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Redis实现分布式锁&quot;&gt;&lt;a href=&quot;#Redis实现分布式锁&quot; class=&quot;headerlink&quot; title=&quot;Redis实现分布式锁&quot;&gt;&lt;/a&gt;Redis实现分布式锁&lt;/h1&gt;&lt;h2 id=&quot;分布式锁一般有三种实现方式：&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://github.com/marcos-boy/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="Redis" scheme="https://github.com/marcos-boy/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 结合coding部署详解</title>
+    <link href="https://github.com/marcos-boy/article/2022/40152/"/>
+    <id>https://github.com/marcos-boy/article/2022/40152/</id>
+    <published>2022-06-05T03:39:37.000Z</published>
+    <updated>2023-11-29T06:37:11.710Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Hexo-结合coding部署详解&quot;&gt;&lt;a href=&quot;#Hexo-结合coding部署详解&quot; class=&quot;headerlink&quot; title=&quot;Hexo 结合coding部署详解&quot;&gt;&lt;/a&gt;Hexo 结合coding部署详解&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://github.com/marcos-boy/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="Hexo" scheme="https://github.com/marcos-boy/tags/Hexo/"/>
+    
+    <category term="JavaScript" scheme="https://github.com/marcos-boy/tags/JavaScript/"/>
+    
+  </entry>
+  
+</feed>
